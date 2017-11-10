@@ -9,3 +9,11 @@ git add
 git diff 
 git diff --staged
 git diff --cached
+
+
+git commit
+git commit -m 'message to be sent'
+git commit -a -m 'message'
+
+git rm 
+git rm --cached
