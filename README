@@ -1,0 +1,11 @@
+StartGit
+
+Commands:
+
+git status
+git add
+
+.gitignore
+git diff 
+git diff --staged
+git diff --cached
