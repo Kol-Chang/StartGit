@@ -32,3 +32,18 @@ git log --pretty
 git log --pretty=oneline/short/full/fuller
 git log --pretty=format:"%h %an %ar %s"
 git log --since=2.weeks
+git log --oneline --decorate
+git log --oneline --decorate --graph --all
+
+git remote
+git remote -v
+
+git fetch [remote-name]
+
+git branch testing
+git checkout testing
+git checkout -b iss53
+
+git merge
+git branck -d hotfix
+
